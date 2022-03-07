@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="ui\unit\Playground\PlaygroundGraphUnit.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ui\unit\Playground\Sheets\AlgorithmResult.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ui\unit\Playground\Table\CpuVisualizationItem.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ui\unit\Playground\Table\ProcessResultTableItem.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ui\unit\Workspace\ProcessTableitem.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ui\layout\HeaderTitle.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ui\layout\PlayGround.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ui\layout\WorkSpace.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ui\unit\Playground\PlaygroundGraphUnit.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ui\unit\Playground\Sheets\AlgorithmResult.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ui\unit\Playground\Table\CpuVisualizationItem.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ui\unit\Playground\Table\ProcessResultTableItem.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ui\unit\Workspace\ProcessTableitem.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ui\layout\HeaderTitle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ui\layout\PlayGround.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ui\layout\WorkSpace.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

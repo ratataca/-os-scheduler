@@ -1,0 +1,114 @@
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.exe
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.deps.json
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.runtimeconfig.json
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.runtimeconfig.dev.json
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.dll
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.pdb
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\NumericUpDown.dll
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.csprojAssemblyReference.cache
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\HeaderTitle.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\PlayGround.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\WorkSpace.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\PlaygroundGraphUnit.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Sheets\AlgorithmResult.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Table\CpuVisualizationItem.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Table\ProcessResultTableItem.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Workspace\ProcessTableitem.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram_MarkupCompile.cache
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram_MarkupCompile.lref
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MainWindow.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\HeaderTitle.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\PlayGround.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\WorkSpace.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\PlaygroundGraphUnit.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Sheets\AlgorithmResult.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Table\CpuVisualizationItem.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Table\ProcessResultTableItem.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Workspace\ProcessTableitem.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.g.resources
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.csproj.CoreCompileInputs.cache
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.AssemblyInfoInputs.cache
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.AssemblyInfo.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.csproj.CopyComplete
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.dll
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.pdb
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.genruntimeconfig.cache
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.exe
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.deps.json
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.runtimeconfig.json
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.runtimeconfig.dev.json
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.dll
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.pdb
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\NumericUpDown.dll
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.csprojAssemblyReference.cache
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MainWindow.g.cs
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\HeaderTitle.g.cs
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\PlayGround.g.cs
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\WorkSpace.g.cs
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\PlaygroundGraphUnit.g.cs
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Sheets\AlgorithmResult.g.cs
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Table\CpuVisualizationItem.g.cs
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Table\ProcessResultTableItem.g.cs
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Workspace\ProcessTableitem.g.cs
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\App.g.cs
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram_MarkupCompile.cache
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram_MarkupCompile.lref
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MainWindow.baml
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\HeaderTitle.baml
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\PlayGround.baml
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\WorkSpace.baml
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\PlaygroundGraphUnit.baml
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Sheets\AlgorithmResult.baml
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Table\CpuVisualizationItem.baml
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Table\ProcessResultTableItem.baml
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Workspace\ProcessTableitem.baml
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.g.resources
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.csproj.CoreCompileInputs.cache
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.AssemblyInfoInputs.cache
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.AssemblyInfo.cs
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.csproj.CopyComplete
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.dll
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.pdb
+D:\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.genruntimeconfig.cache
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.exe
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.deps.json
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.runtimeconfig.json
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.runtimeconfig.dev.json
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.dll
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\MsOSProgram.pdb
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\bin\Release\netcoreapp3.1\NumericUpDown.dll
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.csprojAssemblyReference.cache
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MainWindow.g.cs
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\HeaderTitle.g.cs
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\PlayGround.g.cs
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\WorkSpace.g.cs
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\PlaygroundGraphUnit.g.cs
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Sheets\AlgorithmResult.g.cs
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Table\CpuVisualizationItem.g.cs
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Table\ProcessResultTableItem.g.cs
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Workspace\ProcessTableitem.g.cs
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\App.g.cs
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram_MarkupCompile.cache
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram_MarkupCompile.lref
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MainWindow.baml
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\HeaderTitle.baml
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\PlayGround.baml
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\layout\WorkSpace.baml
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\PlaygroundGraphUnit.baml
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Sheets\AlgorithmResult.baml
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Table\CpuVisualizationItem.baml
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Playground\Table\ProcessResultTableItem.baml
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\ui\unit\Workspace\ProcessTableitem.baml
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.g.resources
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.AssemblyInfoInputs.cache
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.AssemblyInfo.cs
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.csproj.CoreCompileInputs.cache
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.csproj.CopyComplete
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.dll
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.pdb
+G:\대학교\3학년\3-1\운영체제\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\MsOSProgram.genruntimeconfig.cache

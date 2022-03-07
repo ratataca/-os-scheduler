@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\대학교\\3학년\\3-1\\운영체제\\완성 본\\MsOSProgram (2)\\MsOSProgram\\MsOSProgram.csproj": {}
+  },
+  "projects": {
+    "G:\\대학교\\3학년\\3-1\\운영체제\\완성 본\\MsOSProgram (2)\\MsOSProgram\\MsOSProgram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\대학교\\3학년\\3-1\\운영체제\\완성 본\\MsOSProgram (2)\\MsOSProgram\\MsOSProgram.csproj",
+        "projectName": "MsOSProgram",
+        "projectPath": "G:\\대학교\\3학년\\3-1\\운영체제\\완성 본\\MsOSProgram (2)\\MsOSProgram\\MsOSProgram.csproj",
+        "packagesPath": "C:\\Users\\kbgst\\.nuget\\packages\\",
+        "outputPath": "G:\\대학교\\3학년\\3-1\\운영체제\\완성 본\\MsOSProgram (2)\\MsOSProgram\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kbgst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NumericUpDown": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

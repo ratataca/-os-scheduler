@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MsOSProgram/1.0.0": {
+        "dependencies": {
+          "NumericUpDown": "3.0.1"
+        },
+        "runtime": {
+          "MsOSProgram.dll": {}
+        }
+      },
+      "NumericUpDown/3.0.1": {
+        "runtime": {
+          "lib/NumericUpDown.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MsOSProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NumericUpDown/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JVd/JWCHOwEr/uvG/j3H8UDweRcFOSMaxe1ak/V3wa+DFKIju0bgrWygcUNr2fUsz2/n8gtizK4wXpxiSodEjw==",
+      "path": "numericupdown/3.0.1",
+      "hashPath": "numericupdown.3.0.1.nupkg.sha512"
+    }
+  }
+}

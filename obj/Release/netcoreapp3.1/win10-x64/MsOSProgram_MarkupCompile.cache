@@ -1,0 +1,20 @@
+﻿MsOSProgram
+
+
+winexe
+C#
+.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Release\netcoreapp3.1\win10-x64\
+MsOSProgram
+none
+false
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\App.xaml
+9-1705125825
+
+241847523722
+193790755854
+MainWindow.xaml;ui\layout\HeaderTitle.xaml;ui\layout\PlayGround.xaml;ui\layout\WorkSpace.xaml;ui\unit\Playground\PlaygroundGraphUnit.xaml;ui\unit\Playground\Sheets\AlgorithmResult.xaml;ui\unit\Playground\Table\CpuVisualizationItem.xaml;ui\unit\Playground\Table\ProcessResultTableItem.xaml;ui\unit\Workspace\ProcessTableitem.xaml;
+
+False
+

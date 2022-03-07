@@ -1,0 +1,79 @@
+﻿<UserControl x:Class="MsOSProgram.ui.unit.Playground.Sheets.AlgorithmResult"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MsOSProgram.ui.unit.Playground.Sheets"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="#FF2B2F3A">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Button x:Name="BtnSimulation" Content="Simulation" Background="#FFFFAC00" BorderBrush="#FFD8840A" Foreground="White" FontSize="24" HorizontalAlignment="Right" VerticalAlignment="Top" Height="37" Width="152" Click="BtnSimulation_Click" Margin="0,10,30,0" />
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Label Content="CPU Visualization" HorizontalAlignment="Left" Margin="20,0,0,0" VerticalAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="White"/>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid x:Name="gridCpuVisualization" Grid.Row="1">
+
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Label Content="Process Table Result" HorizontalAlignment="Left" Margin="20,0,0,0" VerticalAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="White"/>
+        </Grid>
+        <Grid  Grid.Row="4" Background="#B44B4E59" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0">
+                <Label Content="Process ID" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Foreground="White" FontWeight="Bold"/>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Label Content="AT" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Foreground="White" FontWeight="Bold"/>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Label Content="BT" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Foreground="White" FontWeight="Bold"/>
+            </Grid>
+            <Grid Grid.Column="3">
+                <Label Content="WT" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Foreground="White" FontWeight="Bold"/>
+            </Grid>
+            <Grid Grid.Column="4">
+                <Label Content="TT" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Foreground="White" FontWeight="Bold"/>
+            </Grid>
+            <Grid Grid.Column="5">
+                <Label Content="NTT" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Foreground="White" FontWeight="Bold"/>
+            </Grid>
+
+        </Grid>
+        <Grid Grid.Row="5">
+            <ScrollViewer HorizontalScrollBarVisibility="Disabled"  VerticalScrollBarVisibility="Hidden" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <Grid x:Name="gridProcessTableResult">
+
+                </Grid>
+            </ScrollViewer>
+
+        </Grid>
+        <Grid x:Name="GridAVGTT"  Grid.Row="6" Background="#FF242730" Visibility="Hidden" >
+            <Label Content="Average response time(TT) : " HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,70,0" Foreground="White" FontSize="16" FontWeight="Normal"/>
+            <TextBlock x:Name="TextBlockAverageResponseTime" HorizontalAlignment="Right" Text="0" TextWrapping="Wrap" VerticalAlignment="Center" Foreground="White" FontSize="16" Width="45" Height="20" Margin="0,0,25,0"/>
+        </Grid>
+
+    </Grid>
+</UserControl>

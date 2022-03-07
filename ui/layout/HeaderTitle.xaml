@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="MsOSProgram.ui.layout.HeaderTitle"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MsOSProgram.ui.layout"
+             mc:Ignorable="d" 
+             d:DesignHeight="60" d:DesignWidth="600">
+    <Grid Background="#FF21242C">
+        <Label x:Name="FontTextMongshell" Content="Mongshell" HorizontalAlignment="Left" VerticalAlignment="Center" Foreground="#FFFFAE00" FontFamily="Segoe UI Black" FontSize="33" Height="61" Margin="10,0,0,0" Width="200" />
+    </Grid>
+</UserControl>

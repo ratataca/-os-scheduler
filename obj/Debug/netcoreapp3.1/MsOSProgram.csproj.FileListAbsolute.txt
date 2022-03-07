@@ -1,0 +1,126 @@
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.csprojAssemblyReference.cache
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\HeaderTitle.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\PlayGround.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\WorkSpace.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram_MarkupCompile.cache
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram_MarkupCompile.lref
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.exe
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.deps.json
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.runtimeconfig.json
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.runtimeconfig.dev.json
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.dll
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.pdb
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\HeaderTitle.baml
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\PlayGround.baml
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\WorkSpace.baml
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.g.resources
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.csproj.CoreCompileInputs.cache
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.AssemblyInfoInputs.cache
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.AssemblyInfo.cs
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.dll
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.pdb
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.genruntimeconfig.cache
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\bin\Debug\netcoreapp3.1\NumericUpDown.dll
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.csproj.CopyComplete
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\PlaygroundAlgorithmUnit.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\PlaygroundGraph.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\PlaygroundGraphUnit.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\PlaygroundResultTable.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\PlaygroundResultTableUnit.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Workspace\ProcessTableitem.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\PlaygroundAlgorithmUnit.baml
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\PlaygroundGraph.baml
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\PlaygroundGraphUnit.baml
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\PlaygroundResultTable.baml
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\PlaygroundResultTableUnit.baml
+C:\Users\kbgst\OneDrive\바탕 화면\MsOS\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Workspace\ProcessTableitem.baml
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\HeaderTitle.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\PlayGround.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\WorkSpace.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\PlaygroundAlgorithmUnit.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\PlaygroundGraph.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\PlaygroundGraphUnit.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\PlaygroundResultTable.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\PlaygroundResultTableUnit.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Workspace\ProcessTableitem.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram_MarkupCompile.cache
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram_MarkupCompile.lref
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.exe
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.deps.json
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.runtimeconfig.json
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.runtimeconfig.dev.json
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.dll
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.pdb
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\bin\Debug\netcoreapp3.1\NumericUpDown.dll
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\HeaderTitle.baml
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\PlayGround.baml
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\WorkSpace.baml
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\PlaygroundAlgorithmUnit.baml
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\PlaygroundGraph.baml
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\PlaygroundGraphUnit.baml
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\PlaygroundResultTable.baml
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\PlaygroundResultTableUnit.baml
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Workspace\ProcessTableitem.baml
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.g.resources
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.csproj.CoreCompileInputs.cache
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.AssemblyInfoInputs.cache
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.AssemblyInfo.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.csproj.CopyComplete
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.dll
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.pdb
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.genruntimeconfig.cache
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.csprojAssemblyReference.cache
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Sheets\Summary.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Sheets\Summary.baml
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Sheets\AlgorithmResult.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Sheets\AlgorithmResult.baml
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\ProcessResultTableItem.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\ProcessResultTableItem.baml
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\CpuVisualizationItem.g.cs
+C:\Users\chnam\Desktop\MsOSProgram\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\CpuVisualizationItem.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.exe
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.deps.json
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.runtimeconfig.json
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.runtimeconfig.dev.json
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.dll
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\bin\Debug\netcoreapp3.1\MsOSProgram.pdb
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\bin\Debug\netcoreapp3.1\NumericUpDown.dll
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.csprojAssemblyReference.cache
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\HeaderTitle.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\PlayGround.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\WorkSpace.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\PlaygroundGraphUnit.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Sheets\AlgorithmResult.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\CpuVisualizationItem.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\ProcessResultTableItem.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Workspace\ProcessTableitem.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram_MarkupCompile.cache
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram_MarkupCompile.lref
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\HeaderTitle.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\PlayGround.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\layout\WorkSpace.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\PlaygroundGraphUnit.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Sheets\AlgorithmResult.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\CpuVisualizationItem.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Playground\Table\ProcessResultTableItem.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\ui\unit\Workspace\ProcessTableitem.baml
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.g.resources
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.csproj.CoreCompileInputs.cache
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.AssemblyInfoInputs.cache
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.AssemblyInfo.cs
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.csproj.CopyComplete
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.dll
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.pdb
+C:\Users\kbgst\OneDrive\바탕 화면\완성 본\MsOSProgram (2)\MsOSProgram\obj\Debug\netcoreapp3.1\MsOSProgram.genruntimeconfig.cache
